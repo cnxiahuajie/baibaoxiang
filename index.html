@@ -68,15 +68,15 @@
                         for (var i = 0, len = movies.length; i < len; i++) {
                             movie = movies[i]
                             movieElement = document.createElement("div")
-                            movieElement.innerHTML += '<div class="movie jumbotron" style="width: 70%;">'
+                            movieElement.innerHTML += '<div class="movie" style="width: 70%;">'
                             movieElement.innerHTML += '<img src="' + movie.img + '" class="card-img-top img-thumbnail" alt="...">'
-                            movieElement.innerHTML += '<hr class="my-4">'
                             movieElement.innerHTML += '<div class="card-body">'
-                            movieElement.innerHTML += '<h5 class="card-title">' + movie.title + '<span class="badge badge-success">'+ movie.rating +'</span></h5>'
+                            movieElement.innerHTML += '<h5 class="card-title" style="display: flex; align-items: center;">' + movie.title + '<span class="badge badge-success">'+ movie.rating +'</span></h5>'
                             movieElement.innerHTML += '<p class="card-text">' + movie.producers + '<br>' + movie.type + '</p>'
                             movieElement.innerHTML += '<a href="' + movie.link + '" class="btn btn-primary">查看</a>'
                             movieElement.innerHTML += '</div>'
                             movieElement.innerHTML += '</div>'
+                            movieElement.innerHTML += '<hr class="my-4">'
                             root.appendChild(movieElement)
                         }
                     }
