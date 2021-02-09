@@ -28,17 +28,8 @@
             </nav>
         </header>
 
-        <section>
-            <div class="card" style="width: 18rem;">
-                <img src="..." class="card-img-top" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-                        content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
-                </div>
-            </div>
-        </section>
+        <div id="movie-container">
+        </div>
 
         <!-- JavaScript 文件是可选的。从以下两种建议中选择一个即可！ -->
 
@@ -61,8 +52,22 @@
                 request.onload = function() {
                     if (request.status == 200) {
                         var json = JSON.parse(request.responseText)
-                        console.log(json)
-                        alert(json)
+                        var movies = json.movies
+                        var root = document.getElementById("movie-container")
+                        for (var i = 0, len = movies.length; i < len; i++) {
+                            movie = movies[i]
+                            movieElement = document.getElementById("div")
+                            movieElement.innerHTML += ''
+                            movieElement.innerHTML += '<div class="card" style="width: 18rem;">'
+                            movieElement.innerHTML += '<img src="' + movie.img + '" class="card-img-top" alt="...">'
+                            movieElement.innerHTML += '<div class="card-body">'
+                            movieElement.innerHTML += '<h5 class="card-title">Card title</h5>'
+                            movieElement.innerHTML += '<p class="card-text"></p>'
+                            movieElement.innerHTML += '<a href="#" class="btn btn-primary">Go somewhere</a>'
+                            movieElement.innerHTML += '</div>'
+                            movieElement.innerHTML += '</div>'
+                            root.appendChild(movieElement)
+                        }
                     }
                 }
             }
