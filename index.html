@@ -57,15 +57,14 @@
                         var root = document.getElementById("movie-container")
                         for (var i = 0, len = movies.length; i < len; i++) {
                             movie = movies[i]
-                            console.log(JSON.stringify(movie))
                             movieElement = document.createElement("div")
                             movieElement.innerHTML += ''
-                            movieElement.innerHTML += '<div class="card" style="width: 18rem;">'
+                            movieElement.innerHTML += '<div class="card" style="width: 70%;">'
                             movieElement.innerHTML += '<img src="' + movie.img + '" class="card-img-top" alt="...">'
                             movieElement.innerHTML += '<div class="card-body">'
-                            movieElement.innerHTML += '<h5 class="card-title">Card title</h5>'
-                            movieElement.innerHTML += '<p class="card-text"></p>'
-                            movieElement.innerHTML += '<a href="#" class="btn btn-primary">Go somewhere</a>'
+                            movieElement.innerHTML += '<h5 class="card-title">' + movie.title + '</h5>'
+                            movieElement.innerHTML += '<p class="card-text">' + movie.producers + '<br>' + movie.type + '</p>'
+                            movieElement.innerHTML += '<a href="' + movie.link + '" class="btn btn-primary">查看</a>'
                             movieElement.innerHTML += '</div>'
                             movieElement.innerHTML += '</div>'
                             root.appendChild(movieElement)
