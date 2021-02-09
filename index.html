@@ -56,6 +56,7 @@
                         var root = document.getElementById("movie-container")
                         for (var i = 0, len = movies.length; i < len; i++) {
                             movie = movies[i]
+                            console.log(JSON.stringify(movie))
                             movieElement = document.createElement("div")
                             movieElement.innerHTML += ''
                             movieElement.innerHTML += '<div class="card" style="width: 18rem;">'
