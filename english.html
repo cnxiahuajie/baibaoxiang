@@ -59,18 +59,9 @@
                         for (var i = 0, len = words.length; i < len; i++) {
                             word = words[i]
                             englishElement = document.createElement("div")
-                            if (i % 1 == 0) {
-                                englishElement.className = 'card text-white bg-primary mb-3'
-                            } else if (i % 2 == 0) {
-                                englishElement.className = 'card text-white bg-success mb-3'
-                            } else if (i % 3 == 0) {
-                                englishElement.className = 'card text-white bg-danger mb-3'
-                            }
+                            englishElement.className = 'card text-white bg-dark mb-3'
                             englishElement.innerHTML += '<div class="card-header">常用语句</div>'
-                            englishElement.innerHTML += '<div class="card-body">'
-                            englishElement.innerHTML += '<h5 class="card-title">' + word.en + '</h5>'
-                            englishElement.innerHTML += '<p class="card-text">' + word.zh + '</p>'
-                            englishElement.innerHTML += '</div>'
+                            englishElement.innerHTML += '<div class="card-body">' + '<h5 class="card-title">' + word.en + '</h5>' + '<p class="card-text">' + word.zh + '</p>' + '</div>'
                             root.appendChild(englishElement)
                         }
                     }
