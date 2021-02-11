@@ -59,7 +59,8 @@
                         for (var i = 0, len = words.length; i < len; i++) {
                             word = words[i]
                             englishElement = document.createElement("div")
-                            englishElement.className = 'card'
+                            englishElement.className = 'card text-white bg-dark mb-3'
+                            englishElement.innerHTML += '<div class="card-header">常用语句</div>'
                             englishElement.innerHTML += '<div class="card-body">'
                             englishElement.innerHTML += '<h5 class="card-title">' + word.en + '</h5>'
                             englishElement.innerHTML += '<p class="card-text">' + word.zh + '</p>'
