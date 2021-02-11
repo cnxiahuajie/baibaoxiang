@@ -1,0 +1,1004 @@
+{
+    "words": [
+        {
+            "en": "At what time?",
+            "zh": "几点钟？"
+        },
+        {
+            "en": "Boarding is at gate B23.",
+            "zh": "登机口在B23。"
+        },
+        {
+            "en": "Can you help me?",
+            "zh": "您能帮助我一下吗？"
+        },
+        {
+            "en": "Does this road go to Wuhan?",
+            "zh": "这套路能到武汉吗？"
+        },
+        {
+            "en": "Do you know what this says?",
+            "zh": "你知道这个是什么意思吗？"
+        },
+        {
+            "en": "Follow me.",
+            "zh": "跟我来。"
+        },
+        {
+            "en": "Go straight ahead.",
+            "zh": "一直往前走"
+        },
+        {
+            "en": "Have you arrived?",
+            "zh": "你已经到了吗？"
+        },
+        {
+            "en": "Have you been to Wuhan?",
+            "zh": "你去过武汉吗？"
+        },
+        {
+            "en": "How do I get there?",
+            "zh": "我该怎么去那儿？"
+        },
+        {
+            "en": "How do I get to the Optics Valley？",
+            "zh": "去光谷应该怎么走？"
+        },
+        {
+            "en": "How long does it take by walk?",
+            "zh": "走路过去要花多长时间？"
+        },
+        {
+            "en": "How long does it take to get to Wuhan?",
+            "zh": "到武汉要花多长时间？"
+        },
+        {
+            "en": "How long is the flight?",
+            "zh": "这趟航班要飞多久？"
+        },
+        {
+            "en": "I want to ask you a question.",
+            "zh": "我想要问你一个问题。"
+        },
+        {
+            "en": "I'd like a one way ticket.",
+            "zh": "我要一张单程票。"
+        },
+        {
+            "en": "I'd like a round trip ticket.",
+            "zh": "我要一张往返票。"
+        },
+        {
+            "en": "I'm going school in four days.",
+            "zh": "四天之后我就要去学校了。"
+        },
+        {
+            "en": "I'm leaving Tomorrow.",
+            "zh": "我明天就要出发了。"
+        },
+        {
+            "en": "I'm looking for the post office.",
+            "zh": "我正在找邮局。"
+        },
+        {
+            "en": "It's about 300 kilometers from here.",
+            "zh": "离这儿大概三百公里。"
+        },
+        {
+            "en": "It's across from the post office.",
+            "zh": "它就在邮局的对面。"
+        },
+        {
+            "en": "One ticket to Wuhan please.",
+            "zh": "请给我一张去武汉的票。（对售票员说）"
+        },
+        {
+            "en": "One way or round trip?",
+            "zh": "您是要单程票还是往返票？（售票员回复你）"
+        },
+        {
+            "en": "Please take me to the airpost.",
+            "zh": "请送我去飞机场。"
+        },
+        {
+            "en": "That way.",
+            "zh": "往那边走。（用手比划一个方向）"
+        },
+        {
+            "en": "The plane departs at 5:30PM.",
+            "zh": "本次航班将于下午五点半起飞。"
+        },
+        {
+            "en": "The plane is delayed.",
+            "zh": "本次航班已经延误了。"
+        },
+        {
+            "en": "They arrived yeasterday.",
+            "zh": "他们昨天就已经到了。"
+        },
+        {
+            "en": "Turn around.",
+            "zh": "调头。（对司机说）"
+        },
+        {
+            "en": "Turn left.",
+            "zh": "向左转。（对司机说）"
+        },
+        {
+            "en": "Turn right.",
+            "zh": "向右转。（对司机说）"
+        },
+        {
+            "en": "What time are you going to the bus station?",
+            "zh": "你打算什么时候去客运站？"
+        },
+        {
+            "en": "When did you arrive in Wuhan?",
+            "zh": "你什么时候到武汉？"
+        },
+        {
+            "en": "When does he arrive?",
+            "zh": "他什么时候到？"
+        },
+        {
+            "en": "When does the bus arrive?",
+            "zh": "客车会在几点到达？（正在等待客车）"
+        },
+        {
+            "en": "When do we arrive?",
+            "zh": "我们会在何时到达？（询问司机）"
+        },
+        {
+            "en": "When do we leave?",
+            "zh": "我们什么时候走？"
+        },
+        {
+            "en": "Where is she from?",
+            "zh": "她来自哪里？"
+        },
+        {
+            "en": "Where is the toilet?",
+            "zh": "厕所在哪儿？"
+        },
+        {
+            "en": "¥5.21.(Five Yuan twenty",
+            "zh": "one cents 或者 Five, twenty"
+        },
+        {
+            "en": "At 3 o'clock.",
+            "zh": "在三点整。"
+        },
+        {
+            "en": "Do you have anything cheaper?",
+            "zh": "还能再便宜一点吗？"
+        },
+        {
+            "en": "Do you take Alipay?",
+            "zh": "你这里能刷支付宝吗？"
+        },
+        {
+            "en": "Do you have enough money?",
+            "zh": "你有足够的钱吗？"
+        },
+        {
+            "en": "How are you paying?",
+            "zh": "你打算怎么付款？"
+        },
+        {
+            "en": "How many people are there in Wuhan?",
+            "zh": "武汉有多少人口？"
+        },
+        {
+            "en": "How much are these earrings?",
+            "zh": "这对耳环多少钱？"
+        },
+        {
+            "en": "How much does it cost per day?",
+            "zh": "这个东西每天要花多少钱？"
+        },
+        {
+            "en": "How much does this cost?",
+            "zh": "这个东西多少钱？"
+        },
+        {
+            "en": "How much do I owe you?",
+            "zh": "我欠你多少钱？"
+        },
+        {
+            "en": "How much does it cost to go to Wuhan?",
+            "zh": "去武汉要花多少钱？"
+        },
+        {
+            "en": "How much will it cost?",
+            "zh": "拿东西要花多少钱？"
+        },
+        {
+            "en": "I only have 5 Yuan.",
+            "zh": "我只有五块钱。"
+        },
+        {
+            "en": "I don't have enough money.",
+            "zh": "我的钱不够。"
+        },
+        {
+            "en": "I'd like to eat at McDonalds.",
+            "zh": "我想去麦当劳吃饭。"
+        },
+        {
+            "en": "I'll pay for the tickets.",
+            "zh": "我来付门票的钱。"
+        },
+        {
+            "en": "I'm 23 years old.",
+            "zh": "我23岁。"
+        },
+        {
+            "en": "It's less than 5 Yuan.",
+            "zh": "那个不到五块钱。"
+        },
+        {
+            "en": "It's more than 5 Yuan.",
+            "zh": "那个超过五块钱。"
+        },
+        {
+            "en": "Sorry, we don't accept credit cards.",
+            "zh": "很抱歉，我们不接受信用卡方式支付。"
+        },
+        {
+            "en": "Sorry, we only accept cash.",
+            "zh": "很抱歉，我们只收现金。"
+        },
+        {
+            "en": "That's too expensive.",
+            "zh": "是在太贵了。"
+        },
+        {
+            "en": "They charge 50 Yuan per day.",
+            "zh": "他们每天要收取五十块钱。"
+        },
+        {
+            "en": "What's the exchange rate for Dollar?",
+            "zh": "兑换美元的汇率是多少？"
+        },
+        {
+            "en": "What's the phone number?",
+            "zh": "电话号码是多少？"
+        },
+        {
+            "en": "When does the bank open?",
+            "zh": "银行几点开始营业？"
+        },
+        {
+            "en": "Where can I buy tickets?",
+            "zh": "在哪儿买票？"
+        },
+        {
+            "en": "Where is the ATM?",
+            "zh": "取款机在哪？"
+        },
+        {
+            "en": "Here it is.",
+            "zh": "就在这里。"
+        },
+        {
+            "en": "Here you are.",
+            "zh": "你们到了。"
+        },
+        {
+            "en": "He's in the kitchen.",
+            "zh": "他在厨房。"
+        },
+        {
+            "en": "He stuties at Post & Telecom School.",
+            "zh": "他在邮电学校上学。"
+        },
+        {
+            "en": "How far is it?",
+            "zh": "有多远？"
+        },
+        {
+            "en": "How fat is it to Wuhan?",
+            "zh": "到武汉有多远？"
+        },
+        {
+            "en": "How many miles is it to Wuhan?",
+            "zh": "到武汉有多少英里？"
+        },
+        {
+            "en": "It's near the supermarket.",
+            "zh": "它在超市附近。"
+        },
+        {
+            "en": "It's on Zhongnan Road.",
+            "zh": "在中南路。"
+        },
+        {
+            "en": "I was going to the library.",
+            "zh": "那时我正打算去图书馆。"
+        },
+        {
+            "en": "I was in the library.",
+            "zh": "那时我在图书馆。"
+        },
+        {
+            "en": "It's not too far.",
+            "zh": "不是非常远。"
+        },
+        {
+            "en": "My house is close to the school.",
+            "zh": "我的房子离学校很近。"
+        },
+        {
+            "en": "Near the school.",
+            "zh": "在学校附近。"
+        },
+        {
+            "en": "On the left.",
+            "zh": "在左边。"
+        },
+        {
+            "en": "On the right.",
+            "zh": "在右边。"
+        },
+        {
+            "en": "On the second floor.",
+            "zh": "在二楼。"
+        },
+        {
+            "en": "Outside the school.",
+            "zh": "在学校外面。"
+        },
+        {
+            "en": "Over here.",
+            "zh": "在这儿。"
+        },
+        {
+            "en": "Over there.",
+            "zh": "在那儿。"
+        },
+        {
+            "en": "The Book is behind the table.",
+            "zh": "这本书在桌子的后边。"
+        },
+        {
+            "en": "The book is in front of the table.",
+            "zh": "这本书在桌子的前边。"
+        },
+        {
+            "en": "The book is near the table.",
+            "zh": "这本书在桌子的旁边。"
+        },
+        {
+            "en": "The book is next to the table.",
+            "zh": "这本书紧挨着桌子旁边。"
+        },
+        {
+            "en": "The book is on top of the table.",
+            "zh": "这本书在桌子上。"
+        },
+        {
+            "en": "The book is under the table.",
+            "zh": "这本书在桌子底下。"
+        },
+        {
+            "en": "We're from Hubei.",
+            "zh": "我们来自湖北。"
+        },
+        {
+            "en": "What's the address？",
+            "zh": "地址是哪儿？"
+        },
+        {
+            "en": "Where are you going?",
+            "zh": "你要去哪里？"
+        },
+        {
+            "en": "Where is it?",
+            "zh": "在哪儿？"
+        },
+        {
+            "en": "Where are you going to go?",
+            "zh": "你打算去哪儿？"
+        },
+        {
+            "en": "Where would you like to go?",
+            "zh": "你想去哪儿？"
+        },
+        {
+            "en": "Where's the school?",
+            "zh": "学校在哪儿？"
+        },
+        {
+            "en": "How long are you going to stay?",
+            "zh": "你打算住多久？"
+        },
+        {
+            "en": "How long will it take?",
+            "zh": "要花多长时间？"
+        },
+        {
+            "en": "I'm getting ready to go out.",
+            "zh": "我准备要出门了。"
+        },
+        {
+            "en": "It'll be cold this evening.",
+            "zh": "今天晚上会降温。"
+        },
+        {
+            "en": "It rained very hard today.",
+            "zh": "今天雨下得很大。"
+        },
+        {
+            "en": "It's 6 A.M.",
+            "zh": "早上六点。"
+        },
+        {
+            "en": "It's 8:45.",
+            "zh": "八点四十五分。"
+        },
+        {
+            "en": "It's a quarter to 7.",
+            "zh": "六点四十五分。"
+        },
+        {
+            "en": "It's 11:30pm.",
+            "zh": "晚上十一点半。"
+        },
+        {
+            "en": "It's half past 11.",
+            "zh": "十一点半。"
+        },
+        {
+            "en": "It's a quarter past nine.",
+            "zh": "九点十五分。"
+        },
+        {
+            "en": "He is going on vacation tomorrow.",
+            "zh": "他明天就要去度假了。"
+        },
+        {
+            "en": "My birthday is August 27th.",
+            "zh": "我的生日是8月27日。"
+        },
+        {
+            "en": "Now or later?",
+            "zh": "现在还是过一会儿？"
+        },
+        {
+            "en": "She wants to know when you're coming.",
+            "zh": "她想知道你什么时候来。"
+        },
+        {
+            "en": "Sometimes I go to sleep at 11PM, sometimes at 11:30PM.",
+            "zh": "我有时晚上十一点睡觉，有时晚上十一点半睡觉。"
+        },
+        {
+            "en": "There's plenty of time.",
+            "zh": "还有充足的时间。"
+        },
+        {
+            "en": "The whole day.",
+            "zh": "一整天。"
+        },
+        {
+            "en": "We're late.",
+            "zh": "我们迟到了。"
+        },
+        {
+            "en": "What day are they coming over?",
+            "zh": "他们哪一天会来？"
+        },
+        {
+            "en": "What day of the week is it?",
+            "zh": "星期几？"
+        },
+        {
+            "en": "What is today's date?",
+            "zh": "今天是几月几号？"
+        },
+        {
+            "en": "What time are they arriving?",
+            "zh": "他们几点到？"
+        },
+        {
+            "en": "What time did you go to sleep?",
+            "zh": "你几点睡觉？"
+        },
+        {
+            "en": "What time did you wake up?",
+            "zh": "你几点醒？"
+        },
+        {
+            "en": "What time does it start?",
+            "zh": "几点开始？"
+        },
+        {
+            "en": "What time do you think you'll arrive?",
+            "zh": "你觉得自己几点能到？"
+        },
+        {
+            "en": "What time is it?",
+            "zh": "几点了？"
+        },
+        {
+            "en": "When are they coming?",
+            "zh": "他们几点钟来？"
+        },
+        {
+            "en": "When are you coming back?",
+            "zh": "你几点钟回来？"
+        },
+        {
+            "en": "When are you going to pick up your friend?",
+            "zh": "你打算几点去接你的朋友？"
+        },
+        {
+            "en": "When are you leaving?",
+            "zh": "你几点出发？"
+        },
+        {
+            "en": "When is the next bus to Wuhan?",
+            "zh": "下一班开往武汉的客车几点钟发车？"
+        },
+        {
+            "en": "When is your birthday?",
+            "zh": "你的生日是哪一天？"
+        },
+        {
+            "en": "When I went to the store, they didn't have any apples.",
+            "zh": "我到店里的时候，他们已经没有苹果了。"
+        },
+        {
+            "en": "When was the last time you talked to your mother?",
+            "zh": "你和你妈上一次聊天是在什么时候？"
+        },
+        {
+            "en": "When will it be ready?",
+            "zh": "还要多久可以准备好？"
+        },
+        {
+            "en": "Can you recommend a good restaurant?",
+            "zh": "你能否推荐一家优质的餐厅？"
+        },
+        {
+            "en": "Do you have any vacancies?",
+            "zh": "你们有空房间吗？"
+        },
+        {
+            "en": "For how many nights?",
+            "zh": "你要住几晚？"
+        },
+        {
+            "en": "How do I get to the airport?",
+            "zh": "去机场怎么走？"
+        },
+        {
+            "en": "How long will you be staying?",
+            "zh": "您打算住多久？"
+        },
+        {
+            "en": "I'd like to make a reservation.",
+            "zh": "我想预定一间房间。"
+        },
+        {
+            "en": "I'd like a map of the city.",
+            "zh": "我想要一张市区的地图。"
+        },
+        {
+            "en": "I'd like a non",
+            "zh": "smoking room."
+        },
+        {
+            "en": "I'd like a single room.",
+            "zh": "我要一间单人房。"
+        },
+        {
+            "en": "I'd like a room with two beds please.",
+            "zh": "我要一间配有两张床的房间。"
+        },
+        {
+            "en": "Is there air conditioning in the room?",
+            "zh": "房间里有空调吗？"
+        },
+        {
+            "en": "Is there a restaurant in the hotel?",
+            "zh": "酒店内设有餐厅吗？"
+        },
+        {
+            "en": "Is there a store near here?",
+            "zh": "这附近有商店吗？"
+        },
+        {
+            "en": "Sorry, we don't have any vacancies.",
+            "zh": "很抱歉，本店所有客房都已经满了。"
+        },
+        {
+            "en": "Take me to the Hilton Hotel please.",
+            "zh": "请送我去希尔顿酒店。"
+        },
+        {
+            "en": "What's the price per night?",
+            "zh": "每晚的房价是多少？"
+        },
+        {
+            "en": "What time is check out?",
+            "zh": "退房时间是几点？"
+        },
+        {
+            "en": "Are you here alone?",
+            "zh": "您是一个人用餐吗？"
+        },
+        {
+            "en": "Can I have a glass of water please?",
+            "zh": "能给我一杯水吗？"
+        },
+        {
+            "en": "Can I have a receipt please?",
+            "zh": "能给我一张收费小票吗？"
+        },
+        {
+            "en": "Can we have a menu please?",
+            "zh": "能给我们菜单吗？"
+        },
+        {
+            "en": "Can we have some more bread please?",
+            "zh": "能再给我们一些面包吗？"
+        },
+        {
+            "en": "Have you eaten at that restaurant?",
+            "zh": "那家餐厅你去吃过吗？"
+        },
+        {
+            "en": "Have you eaten yet?",
+            "zh": "你吃过饭了吗？"
+        },
+        {
+            "en": "Have you ever had frog legs?",
+            "zh": "你以前吃过青蛙腿吗？"
+        },
+        {
+            "en": "He likes juice but he doesn't like milk.",
+            "zh": "他爱喝果汁，不爱喝牛奶。"
+        },
+        {
+            "en": "Here is your salad.",
+            "zh": "这是您点的沙拉。"
+        },
+        {
+            "en": "How does it taste?",
+            "zh": "味道如何？"
+        },
+        {
+            "en": "How many people?",
+            "zh": "有多少人用餐？"
+        },
+        {
+            "en": "I'd like a table near the window.",
+            "zh": "我想要一张靠窗的餐桌。"
+        },
+        {
+            "en": "I have a reservation.",
+            "zh": "我有预约过。"
+        },
+        {
+            "en": "I haven't been there.",
+            "zh": "我没去过那儿。"
+        },
+        {
+            "en": "I haven't finished eating.",
+            "zh": "我还没吃完。"
+        },
+        {
+            "en": "I like it.",
+            "zh": "我很喜欢。"
+        },
+        {
+            "en": "I'll have a glass of water please.",
+            "zh": "请给我一杯水。"
+        },
+        {
+            "en": "I'll have the same thing.",
+            "zh": "我也要一样的。"
+        },
+        {
+            "en": "I'll pay for dinner.",
+            "zh": "这顿晚餐我来付钱。"
+        },
+        {
+            "en": "It's delicious!",
+            "zh": "很好吃！"
+        },
+        {
+            "en": "That restaurant is not expensive.",
+            "zh": "那家餐馆价格不贵。"
+        },
+        {
+            "en": "The food was delicious.",
+            "zh": "菜很好吃。"
+        },
+        {
+            "en": "There's a restaurant near here.",
+            "zh": "这儿附近有一家餐馆。"
+        },
+        {
+            "en": "Waiter!",
+            "zh": "服务员！"
+        },
+        {
+            "en": "Waitress!",
+            "zh": "女服务员！"
+        },
+        {
+            "en": "We can eat Italian or Chinese food.",
+            "zh": "我们可以吃意大利菜或是中国菜。"
+        },
+        {
+            "en": "We'll have two glasses of water please.",
+            "zh": "请给我们两杯水。"
+        },
+        {
+            "en": "What are you going to have?",
+            "zh": "您打算点什么菜？"
+        },
+        {
+            "en": "What do you recommend?",
+            "zh": "你有什么推荐吗？"
+        },
+        {
+            "en": "What would you like to drink?",
+            "zh": "您想喝什么饮料？"
+        },
+        {
+            "en": "What would you like to eat?",
+            "zh": "您想吃什么？"
+        },
+        {
+            "en": "Would you like coffee or tea?",
+            "zh": "您想喝咖啡还是茶？"
+        },
+        {
+            "en": "Would you like something to drink?",
+            "zh": "您想喝点什么吗？"
+        },
+        {
+            "en": "Would you like some wine?",
+            "zh": "您想喝葡萄酒吗？"
+        },
+        {
+            "en": "Would you like something to eat?",
+            "zh": "您想吃点什么吗？"
+        },
+        {
+            "en": "Can you come down on the price?",
+            "zh": "你还能再便宜点吗？"
+        },
+        {
+            "en": "Do you know how much it costs?",
+            "zh": "你知道这个要多少钱吗？"
+        },
+        {
+            "en": "Fill it up, please.",
+            "zh": "请加满油。（在加油站）"
+        },
+        {
+            "en": "How much altogether?",
+            "zh": "一共多少钱？"
+        },
+        {
+            "en": "How much is that?",
+            "zh": "那个多少钱？（指附近或远处的商品）"
+        },
+        {
+            "en": "How much is this?",
+            "zh": "这个多少钱？（指面前或手上的拿的商品）"
+        },
+        {
+            "en": "It's too expensive.",
+            "zh": "太贵了。"
+        },
+        {
+            "en": "I'd like to buy a SIM card please.",
+            "zh": "我想买一张手机卡。"
+        },
+        {
+            "en": "I'd like to go shopping.",
+            "zh": "我想购物。"
+        },
+        {
+            "en": "I'm just looking.",
+            "zh": "我就看一看而已。"
+        },
+        {
+            "en": "Sorry, we don't have any.",
+            "zh": "抱歉，本店没有。（你要的商品）"
+        },
+        {
+            "en": "The books are expensive.",
+            "zh": "这些书很贵。"
+        },
+        {
+            "en": "Try it on.",
+            "zh": "试试看。"
+        },
+        {
+            "en": "What size is it?",
+            "zh": "这个尺码是多少？"
+        },
+        {
+            "en": "What time does the store open?",
+            "zh": "贵店几点开始营业？"
+        },
+        {
+            "en": "What's your best price?",
+            "zh": "最低价格是多少？"
+        },
+        {
+            "en": "Am I pronouncing it correctly?",
+            "zh": "我的发音正确吗？"
+        },
+        {
+            "en": "Can you repeat that please?",
+            "zh": "您能否重复一遍？"
+        },
+        {
+            "en": "Can you please say that again?",
+            "zh": "您能否再说一遍？"
+        },
+        {
+            "en": "Can you show me?",
+            "zh": "你能否给我演示一下？"
+        },
+        {
+            "en": "Could you speak slowly please?",
+            "zh": "您能说慢一点吗？"
+        },
+        {
+            "en": "Does anyone here speak Chinese?",
+            "zh": "这儿有人会讲中文吗？"
+        },
+        {
+            "en": "Do you have a pen?",
+            "zh": "你有笔吗？"
+        },
+        {
+            "en": "Do you speak English?",
+            "zh": "你会讲英文吗？"
+        },
+        {
+            "en": "Excuse me, what did you say?",
+            "zh": "不好意思，您刚才说什么？"
+        },
+        {
+            "en": "How do you pronounce that?",
+            "zh": "那个词你是怎么发音的？"
+        },
+        {
+            "en": "How do you say it in English?",
+            "zh": "用英文应该怎么讲？"
+        },
+        {
+            "en": "How do you spell it?",
+            "zh": "那个任何拼写？"
+        },
+        {
+            "en": "I didn't hear you clearly.",
+            "zh": "刚才我没有听清楚你说的话。"
+        },
+        {
+            "en": "I don't speak English very well.",
+            "zh": "我的英文讲得不好。"
+        },
+        {
+            "en": "I don't think so.",
+            "zh": "我不觉得。"
+        },
+        {
+            "en": "I don't understant what you're saying.",
+            "zh": "我不明白你说的话。"
+        },
+        {
+            "en": "I got it.",
+            "zh": "我懂了。"
+        },
+        {
+            "en": "I need to practice my English.",
+            "zh": "我需要练一下英文。"
+        },
+        {
+            "en": "I understant now.",
+            "zh": "现在我明白了。"
+        },
+        {
+            "en": "Sorry, I didn't hear clearly.",
+            "zh": "抱歉，我没听清。"
+        },
+        {
+            "en": "What does this say?",
+            "zh": "这个是什么意思？"
+        },
+        {
+            "en": "What does this word mean?",
+            "zh": "这个词是什么意思？"
+        },
+        {
+            "en": "Are you allergic to anything?",
+            "zh": "你对什么过敏吗？"
+        },
+        {
+            "en": "Can you do me a favor?",
+            "zh": "你能帮我个忙吗？"
+        },
+        {
+            "en": "Call the police.",
+            "zh": "报警！"
+        },
+        {
+            "en": "Can I use your phone?",
+            "zh": "我能借用一下你的电话吗？"
+        },
+        {
+            "en": "Do you sell batteries?",
+            "zh": "你这里卖电池吗？"
+        },
+        {
+            "en": "I got in an accident.",
+            "zh": "我出车祸了。"
+        },
+        {
+            "en": "I have a cold.",
+            "zh": "我感冒了。"
+        },
+        {
+            "en": "I have a head ache.",
+            "zh": "我头痛。"
+        },
+        {
+            "en": "I need you help.",
+            "zh": "我需要你的帮助。"
+        },
+        {
+            "en": "I think I need to see a doctor.",
+            "zh": "我觉得自己需要去看医生。"
+        },
+        {
+            "en": "It depends on the weather.",
+            "zh": "视天气而定。"
+        },
+        {
+            "en": "It's very cold today.",
+            "zh": "今天非常冷。"
+        },
+        {
+            "en": "My luggage is missing.",
+            "zh": "我的行李遗失了。"
+        },
+        {
+            "en": "My stomach hurts.",
+            "zh": "我胃痛。"
+        },
+        {
+            "en": "My throat is sore.",
+            "zh": "我嗓子痛。"
+        },
+        {
+            "en": "My watch has been stolen.",
+            "zh": "我的手表被偷了。"
+        },
+        {
+            "en": "Take this medicine.",
+            "zh": "把这药吃了。"
+        },
+        {
+            "en": "The accident happened at hte intersection.",
+            "zh": "这起交通事故发生在路口。"
+        },
+        {
+            "en": "There has been a car accident.",
+            "zh": "这儿发生了一起交通事故。"
+        },
+        {
+            "en": "Where's the nearest hospital?",
+            "zh": "最近的医院在哪儿？"
+        }
+    ]
+}
